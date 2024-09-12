@@ -12,6 +12,7 @@ winget install -e --id Obsidian.Obsidian
 winget install -e --id Valve.Steam
 winget install -e --id yt-dlp.yt-dlp
 winget install -e --id VideoLAN.VLC
+winget install -e --id Discord.Discord
 
 rem ahk installer issue: https://github.com/microsoft/winget-pkgs/issues/103198
 rem winget install -e --id AutoHotkey.AutoHotkey
